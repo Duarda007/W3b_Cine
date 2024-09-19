@@ -2,9 +2,7 @@ body {
   color : black;
   background : rgb(226, 179, 245);
   margin: 0px;
-  font-family:<link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">;
+  font-family: "Playfair Display", serif;
 }
 
 header{
